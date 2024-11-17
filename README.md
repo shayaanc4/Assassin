@@ -17,5 +17,14 @@ Features
 How to Run
 
 Clone the repository:
-      git clone https://github.com/your-username/assassin-game.git
-      cd assassin-game
+
+	git clone https://github.com/your-username/assassin-game.git
+	cd assassin-game
+
+Compile the java files:
+
+	javac *.java
+
+Run the game:
+
+ 	java AssassinSimulatorApp
