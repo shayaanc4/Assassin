@@ -21,6 +21,8 @@ Clone the repository:
 	git clone https://github.com/your-username/assassin-game.git
 	cd assassin-game
 
+Enter competitor csv filepath at Assassin.java(145)
+
 Compile the java files:
 
 	javac *.java
