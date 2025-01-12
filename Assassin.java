@@ -142,7 +142,7 @@ public class Assassin {
     }
 
     public void init() {
-        String csvFile = "/Users/shayaanchaudhary/Desktop/Education/Brown/Miscellaneous/BUGS/AssassinSimulatorApp/src/main/java/org/example/assassinsimulatorapp/assassinTargets.csv";
+        String csvFile = ""; // Enter file path here
         ArrayList<String> targets = new ArrayList<>();
         try {
             BufferedReader br = new BufferedReader(new FileReader(csvFile));
