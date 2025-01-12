@@ -10,9 +10,9 @@ Features
 - Leaderboard: Tracks the number of kills for each player, adding a competitive edge to the game.
 - Target Shuffling: At certain intervals or events, targets can be reshuffled to add unpredictability or refresh engagement.
 - Object-Oriented Design:
-- Person.java: Models each player’s attributes and statistics.
-- Assassin.java: Implements the assassination logic, leaderboard tracking, and target management.
-- AssassinSimulatorApp.java: Provides the main interface to initialize and control the game.
+	- Person.java: Models each player’s attributes and statistics.
+	- Assassin.java: Implements the assassination logic, leaderboard tracking, and target management.
+	- AssassinSimulatorApp.java: Provides the main interface to initialize and control the game.
 
 How to Run
 
